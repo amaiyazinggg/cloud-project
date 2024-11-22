@@ -116,7 +116,7 @@ Check that the new file appears on both `gluster1` and `gluster2` using
 ls /mnt
 ```
 You should see the file on both `gluster1` and `gluster2`
-Insert Photo
+![](./Images/thenewstack.png)
 
 ### Benchmarking
 We use [fio](https://github.com/axboe/fio) to do the benchmarking
